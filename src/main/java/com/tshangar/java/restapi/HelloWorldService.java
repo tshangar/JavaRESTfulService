@@ -37,7 +37,7 @@ public class HelloWorldService {
         builder.append("       <title>Hello World Service (Java)</title>\n");
         builder.append("   </head>\n");
         builder.append("   <body>\n");
-        builder.append("       <h1> Welcome " + name + " to Java Hello World Restful Service </h1>\n");
+        builder.append("       <h1> Welcome " + name + " to Java Hello World Restful Service. </h1>\n");
         builder.append("   </body>\n");
         builder.append("</html>");
 
